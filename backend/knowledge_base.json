@@ -1,0 +1,10 @@
+[
+  {"question": "How can I improve team productivity?", "answer": "Use daily stand-ups, set clear OKRs, and encourage time-blocking."},
+  {"question": "Tips for remote work?", "answer": "Maintain a fixed schedule, use video check-ins, and set clear boundaries."},
+  {"question": "How to prioritize tasks?", "answer": "Use the Eisenhower Matrix: urgent-important, not urgent-important, etc."},
+  {"question": "How to manage startup funding?", "answer": "Track runway, maintain investor relations, and plan funding rounds early."},
+  {"question": "Thank you for the assistance.", "answer": "Glad i could help you!"},
+  {"question": "What is your name?","answer": "I am your mini AI chatbot."},
+  {"question": "How are you?","answer": "I am doing great, thanks for asking!"},
+  {"question": "What is AI?","answer": "AI stands for Artificial Intelligence, the simulation of human intelligence by machines."}
+]
